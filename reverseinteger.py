@@ -6,7 +6,6 @@ class solution(object):
 
         reverse = 0
         while(value != 0):
-            print(value)
             reverse = reverse*10 + value % 10
             value = int(value / 10)
         
