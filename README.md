@@ -9,4 +9,5 @@ One day one leet code challenge
 |2|[ reverese integer]( https://github.com/binaythapamagar/leet/blob/master/reverseinteger.py)
 |3|[ roman to integer]( https://github.com/binaythapamagar/leet/blob/master/romantointeger.py)
 |4|[ validate paranthesis]( https://github.com/binaythapamagar/leet/blob/master/validparanthesis.py)
-|4|[ Binary search]( https://github.com/binaythapamagar/leet/blob/master/binarysearch.py)
+|5|[ Binary search]( https://github.com/binaythapamagar/leet/blob/master/binarysearch.py)
+|6|[ Remove duplicate element]( https://github.com/binaythapamagar/leet/blob/master/removeelements.py)
